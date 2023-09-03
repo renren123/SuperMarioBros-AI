@@ -1,3 +1,5 @@
+# 原作者 youtube https://www.youtube.com/watch?v=CI3FRsSAa_U
+
 If you want to see a YouTube video describing this at a high level, and showcasing what was learned, take a look [here](https://www.youtube.com/watch?v=CI3FRsSAa_U).<br>
 If you want to see my blog explaining how all of this works in great detail, go [here](https://chrispresso.github.io/AI_Learns_To_Play_SMB_Using_GA_And_NN).
 
